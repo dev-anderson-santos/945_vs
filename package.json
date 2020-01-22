@@ -3,7 +3,6 @@
 	"displayName": "945_vs",
 	"description": "A simple extension",
 	"version": "0.0.1",
-	"publisher": "andevsonsantos",
 	"engines": {
 		"vscode": "^1.41.0"
 	},
