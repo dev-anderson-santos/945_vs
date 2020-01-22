@@ -9,7 +9,7 @@ export function activate(context: vscode.ExtensionContext) {
 	// Use the console to output diagnostic information (console.log) and errors (console.error)
 	// This line of code will only be executed once when your extension is activated
 	console.log('Congratulations, your extension "12345" is now active!');
-
+	// 6vqcgz2xcnetfijwc62s7w4qsv3sik2sjej6rrgch4wygf3qc5sq
 	// The command has been defined in the package.json file
 	// Now provide the implementation of the command with registerCommand
 	// The commandId parameter must match the command field in package.json
